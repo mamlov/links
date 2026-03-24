@@ -5,5 +5,4 @@
 [Snapchat](https://snapchat.com)  
 [Tiktok](https://tiktok.com)  
 
-[test](https://chromebook-hacking.github.io
-)
+[test](https://chromebook-hacking.github.io)
