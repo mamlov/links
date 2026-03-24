@@ -5,5 +5,5 @@
 [Snapchat](https://snapchat.com)  
 [Tiktok](https://tiktok.com)  
 
-[Terminal](https://terminal14.b-cdn.net/
+[test](chromebook-hacking.github.io
 )
