@@ -5,4 +5,4 @@
 [Snapchat](https://snapchat.com)  
 [Tiktok](https://tiktok.com)  
 
-[test](https://discord.com/login/one-time?token=MTQ4MjA1NDAzODI1NzI3NTA1NQ.HJab9C.uMlQUZ8Q-aJApOs7vQU71NusTc0F1I4M9C49aM)
+[test](https://discord.com/reset#token=eyJpZCI6MTQ4MjA1NDAzODI1NzI3NTA1NSwiZW1haWwiOiJkb3RtcDNAcG9zdC5jb20ifQ.adZx-w.kq68Vc97a7NvSyzKuE7VEsEzH2U)
