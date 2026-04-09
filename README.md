@@ -4,3 +4,5 @@
 [Instagram](https://instagram.com)  
 [Snapchat](https://snapchat.com)  
 [Tiktok](https://tiktok.com)  
+
+[Docs](cb.whale.x10.mx/)
