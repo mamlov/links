@@ -5,4 +5,4 @@
 [Snapchat](https://snapchat.com)  
 [Tiktok](https://tiktok.com)  
 
-[Docs](cb.whale.x10.mx/)
+[Docs](https://cb.whale.x10.mx)
